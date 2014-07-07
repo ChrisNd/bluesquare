@@ -1,0 +1,11 @@
+all:
+  propel:
+    class:          sfPropelDatabase
+    param:
+        phptype:    mysql
+        host:       localhost
+        database:   bluesquare
+        username:   root
+        password:   root
+        protocol:   unix
+        encoding:   utf8

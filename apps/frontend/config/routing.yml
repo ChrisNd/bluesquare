@@ -1,0 +1,36 @@
+#===============================================================================
+# USER RULES
+#===============================================================================
+signup:
+  url:   /signup
+  param: { module: user, action: signup }
+
+login:
+  url:   /login
+  param: { module: user, action: login }
+
+requestPassword:
+  url:   /request-password
+  param: { module: user, action: requestPassword }
+
+report:
+  url:   /report
+  param: { module: user, action: report }
+
+#===============================================================================
+# ORIGINAL DEFAULT RULES
+#===============================================================================
+homepage:
+  url:   /
+  param: { module: user, action: login }
+
+default_symfony:
+  url:   /symfony/:action/*
+  param: { module: default }
+
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

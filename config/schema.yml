@@ -1,0 +1,57 @@
+propel: 
+  _attributes: 
+    package: lib.model
+    
+  user: 
+    _attributes: 
+      idMethod: native
+    id: 
+      type: INTEGER
+      required: true
+      autoIncrement: true
+      primaryKey: true
+    username: 
+      type: VARCHAR
+      size: 30
+      required: true
+    password: 
+      type: VARCHAR
+      size: 40
+      required: true
+      default:
+    status: 
+      type: TINYINT
+      required: true
+      default: 0
+      
+  bugs:
+    _attributes: 
+      idMethod: native
+    id: 
+      type: INTEGER
+      required: true
+      autoIncrement: true
+      primaryKey: true
+    user_id: 
+      type: INTEGER
+      required: true
+      default: 0
+      foreignTable: user
+      foreignReference: id
+    title: 
+      type: VARCHAR
+      size: 255
+      required: true
+      default:
+    description: 
+      type: LONGVARCHAR
+      required: true
+      default:
+    assigned_to:
+      type: INTEGER
+      required: true
+      default: 0
+    status: 
+      type: TINYINT
+      required: true
+      default: 0

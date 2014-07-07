@@ -1,0 +1,2123 @@
+Jul 07 15:56:09 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 15:56:09 symfony [info] {sfRouting} connect "/"
+Jul 07 15:56:09 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 15:56:09 symfony [info] {sfRouting} connect "/:module"
+Jul 07 15:56:09 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 15:56:09 symfony [info] {sfContext} initialization
+Jul 07 15:56:09 symfony [err] {sfConfigurationException} Configuration "config/databases.yml" does not exist or is unreadable
+Jul 07 15:56:11 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 15:56:11 symfony [info] {sfContext} initialization
+Jul 07 15:56:11 symfony [err] {sfConfigurationException} Configuration "config/databases.yml" does not exist or is unreadable
+Jul 07 15:56:32 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 15:56:32 symfony [info] {sfContext} initialization
+Jul 07 15:56:32 symfony [err] {sfConfigurationException} Configuration "config/databases.yml" does not exist or is unreadable
+Jul 07 15:58:32 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 15:58:32 symfony [info] {sfRouting} connect "/"
+Jul 07 15:58:32 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 15:58:32 symfony [info] {sfRouting} connect "/:module"
+Jul 07 15:58:32 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 15:58:32 symfony [info] {sfContext} initialization
+Jul 07 15:58:32 symfony [err] {sfConfigurationException} Configuration "config/databases.yml" does not exist or is unreadable
+Jul 07 16:00:59 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:00:59 symfony [info] {sfRouting} connect "/"
+Jul 07 16:00:59 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:00:59 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:00:59 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:00:59 symfony [info] {sfContext} initialization
+Jul 07 16:00:59 symfony [err] {sfConfigurationException} Configuration "config/databases.yml" does not exist or is unreadable
+Jul 07 16:01:41 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:01:41 symfony [info] {sfContext} initialization
+Jul 07 16:01:41 symfony [err] {sfConfigurationException} Configuration "config/databases.yml" does not exist or is unreadable
+Jul 07 16:01:43 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:01:43 symfony [info] {sfContext} initialization
+Jul 07 16:01:43 symfony [err] {sfConfigurationException} Configuration "config/databases.yml" does not exist or is unreadable
+Jul 07 16:02:45 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:02:45 symfony [info] {sfContext} initialization
+Jul 07 16:02:45 symfony [info] {sfController} initialization
+Jul 07 16:02:45 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:02:45 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:02:45 symfony [info] {sfController} dispatch request
+Jul 07 16:02:45 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:02:45 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:02:45 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:02:45 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:02:45 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:02:45 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:02:45 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:02:45 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:02:45 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:02:45 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:02:45 symfony [info] {sfFilter} render to client
+Jul 07 16:02:45 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:02:45 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:02:45 symfony [info] {sfResponse} send content (20329 o)
+Jul 07 16:02:45 symfony [info] {sfTimerManager} Configuration 35.30 ms (11)
+Jul 07 16:02:45 symfony [info] {sfTimerManager} Action "user/login" 0.18 ms (1)
+Jul 07 16:02:45 symfony [info] {sfTimerManager} View "Success" for "user/login" 13.76 ms (1)
+Jul 07 16:03:14 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:03:14 symfony [info] {sfContext} initialization
+Jul 07 16:03:14 symfony [info] {sfController} initialization
+Jul 07 16:03:14 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:03:14 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:03:14 symfony [info] {sfController} dispatch request
+Jul 07 16:03:14 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:03:14 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:03:14 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:03:14 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:03:14 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:03:14 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:03:14 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:03:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:03:14 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:03:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:03:14 symfony [info] {sfFilter} render to client
+Jul 07 16:03:14 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:03:14 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:03:14 symfony [info] {sfResponse} send content (20343 o)
+Jul 07 16:03:14 symfony [info] {sfTimerManager} Configuration 1.17 ms (10)
+Jul 07 16:03:14 symfony [info] {sfTimerManager} Action "user/login" 0.12 ms (1)
+Jul 07 16:03:14 symfony [info] {sfTimerManager} View "Success" for "user/login" 6.12 ms (1)
+Jul 07 16:03:16 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:03:16 symfony [info] {sfContext} initialization
+Jul 07 16:03:16 symfony [info] {sfController} initialization
+Jul 07 16:03:16 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:03:16 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:03:16 symfony [info] {sfController} dispatch request
+Jul 07 16:03:16 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:03:16 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:03:16 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:03:16 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:03:16 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:03:16 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:03:16 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:03:16 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:03:16 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:03:16 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:03:16 symfony [info] {sfFilter} render to client
+Jul 07 16:03:16 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:03:16 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:03:16 symfony [info] {sfResponse} send content (20407 o)
+Jul 07 16:03:16 symfony [info] {sfTimerManager} Configuration 0.99 ms (10)
+Jul 07 16:03:16 symfony [info] {sfTimerManager} Action "user/login" 0.09 ms (1)
+Jul 07 16:03:16 symfony [info] {sfTimerManager} View "Success" for "user/login" 6.10 ms (1)
+Jul 07 16:03:47 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:03:47 symfony [info] {sfContext} initialization
+Jul 07 16:03:47 symfony [info] {sfController} initialization
+Jul 07 16:03:47 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:03:47 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:03:47 symfony [info] {sfController} dispatch request
+Jul 07 16:03:47 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:03:47 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:03:47 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:03:47 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:03:47 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:03:47 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:03:47 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:03:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:03:47 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:03:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:03:47 symfony [info] {sfFilter} render to client
+Jul 07 16:03:47 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:03:47 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:03:47 symfony [info] {sfResponse} send content (20407 o)
+Jul 07 16:03:47 symfony [info] {sfTimerManager} Configuration 1.03 ms (10)
+Jul 07 16:03:47 symfony [info] {sfTimerManager} Action "user/login" 0.10 ms (1)
+Jul 07 16:03:47 symfony [info] {sfTimerManager} View "Success" for "user/login" 5.78 ms (1)
+Jul 07 16:03:57 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:03:57 symfony [info] {sfContext} initialization
+Jul 07 16:03:57 symfony [info] {sfController} initialization
+Jul 07 16:03:57 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:03:57 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:03:57 symfony [info] {sfController} dispatch request
+Jul 07 16:03:57 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:03:57 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:03:57 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:03:57 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:03:57 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:03:57 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:03:57 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:03:57 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:03:57 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:03:57 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:03:57 symfony [info] {sfFilter} render to client
+Jul 07 16:03:57 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:03:57 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:03:57 symfony [info] {sfResponse} send content (20263 o)
+Jul 07 16:03:57 symfony [info] {sfTimerManager} Configuration 1.25 ms (10)
+Jul 07 16:03:57 symfony [info] {sfTimerManager} Action "user/login" 0.14 ms (1)
+Jul 07 16:03:57 symfony [info] {sfTimerManager} View "Success" for "user/login" 5.66 ms (1)
+Jul 07 16:04:01 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:04:01 symfony [info] {sfContext} initialization
+Jul 07 16:04:01 symfony [info] {sfController} initialization
+Jul 07 16:04:01 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:04:01 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:04:01 symfony [info] {sfController} dispatch request
+Jul 07 16:04:01 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:04:01 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:04:01 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:04:01 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:04:01 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:04:01 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:04:01 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:04:01 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:04:01 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:01 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:01 symfony [info] {sfFilter} render to client
+Jul 07 16:04:01 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:04:01 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:04:01 symfony [info] {sfResponse} send content (20263 o)
+Jul 07 16:04:01 symfony [info] {sfTimerManager} Configuration 1.03 ms (10)
+Jul 07 16:04:01 symfony [info] {sfTimerManager} Action "user/login" 0.12 ms (1)
+Jul 07 16:04:01 symfony [info] {sfTimerManager} View "Success" for "user/login" 8.52 ms (1)
+Jul 07 16:04:03 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:04:03 symfony [info] {sfContext} initialization
+Jul 07 16:04:03 symfony [info] {sfController} initialization
+Jul 07 16:04:03 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:04:03 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:04:03 symfony [info] {sfController} dispatch request
+Jul 07 16:04:03 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:04:03 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:04:03 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:04:03 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:04:03 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:04:03 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:04:03 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:04:03 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:04:03 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:03 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:03 symfony [info] {sfFilter} render to client
+Jul 07 16:04:03 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:04:03 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:04:03 symfony [info] {sfResponse} send content (20263 o)
+Jul 07 16:04:03 symfony [info] {sfTimerManager} Configuration 1.46 ms (10)
+Jul 07 16:04:03 symfony [info] {sfTimerManager} Action "user/login" 0.10 ms (1)
+Jul 07 16:04:03 symfony [info] {sfTimerManager} View "Success" for "user/login" 6.07 ms (1)
+Jul 07 16:04:14 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:04:14 symfony [info] {sfContext} initialization
+Jul 07 16:04:14 symfony [info] {sfController} initialization
+Jul 07 16:04:14 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:04:14 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:04:14 symfony [info] {sfController} dispatch request
+Jul 07 16:04:14 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:04:14 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:04:14 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:04:14 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:04:14 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:04:14 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:04:14 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:04:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:04:14 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:14 symfony [info] {sfFilter} render to client
+Jul 07 16:04:14 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:04:14 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:04:14 symfony [info] {sfResponse} send content (20263 o)
+Jul 07 16:04:14 symfony [info] {sfTimerManager} Configuration 0.99 ms (10)
+Jul 07 16:04:14 symfony [info] {sfTimerManager} Action "user/login" 0.09 ms (1)
+Jul 07 16:04:14 symfony [info] {sfTimerManager} View "Success" for "user/login" 5.94 ms (1)
+Jul 07 16:04:23 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:04:23 symfony [info] {sfContext} initialization
+Jul 07 16:04:23 symfony [info] {sfController} initialization
+Jul 07 16:04:23 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:04:23 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:04:23 symfony [info] {sfController} dispatch request
+Jul 07 16:04:23 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:04:23 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:04:23 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:04:23 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:04:23 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:04:23 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:04:23 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:04:23 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:04:23 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:23 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:23 symfony [info] {sfFilter} render to client
+Jul 07 16:04:23 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:04:23 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:04:23 symfony [info] {sfResponse} send content (20407 o)
+Jul 07 16:04:23 symfony [info] {sfTimerManager} Configuration 1.22 ms (10)
+Jul 07 16:04:23 symfony [info] {sfTimerManager} Action "user/login" 0.20 ms (1)
+Jul 07 16:04:23 symfony [info] {sfTimerManager} View "Success" for "user/login" 7.98 ms (1)
+Jul 07 16:04:42 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:04:42 symfony [info] {sfContext} initialization
+Jul 07 16:04:42 symfony [info] {sfController} initialization
+Jul 07 16:04:42 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:04:42 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:04:42 symfony [info] {sfController} dispatch request
+Jul 07 16:04:42 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:04:42 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:04:42 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:04:42 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:04:42 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:04:42 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:04:42 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:04:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:04:42 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:04:42 symfony [info] {sfFilter} render to client
+Jul 07 16:04:42 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:04:42 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:04:42 symfony [info] {sfResponse} send content (20412 o)
+Jul 07 16:04:42 symfony [info] {sfTimerManager} Configuration 0.98 ms (10)
+Jul 07 16:04:42 symfony [info] {sfTimerManager} Action "user/login" 0.10 ms (1)
+Jul 07 16:04:42 symfony [info] {sfTimerManager} View "Success" for "user/login" 5.36 ms (1)
+Jul 07 16:08:36 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:08:36 symfony [info] {sfContext} initialization
+Jul 07 16:08:36 symfony [info] {sfController} initialization
+Jul 07 16:08:36 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:08:36 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:08:36 symfony [info] {sfController} dispatch request
+Jul 07 16:08:36 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:08:36 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:08:36 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:08:36 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:08:36 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:08:36 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:08:36 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:08:36 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:08:36 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:08:36 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:08:36 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:08:36 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:08:37 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:08:37 symfony [info] {sfContext} initialization
+Jul 07 16:08:37 symfony [info] {sfController} initialization
+Jul 07 16:08:37 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:08:37 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:08:37 symfony [info] {sfController} dispatch request
+Jul 07 16:08:37 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:08:37 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:08:37 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:08:37 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:08:37 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:08:37 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:08:37 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:08:37 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:08:37 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:08:37 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:08:37 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:08:37 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:08:50 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:08:50 symfony [info] {sfRouting} connect "/"
+Jul 07 16:08:50 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:08:50 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:08:50 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:08:50 symfony [info] {sfContext} initialization
+Jul 07 16:08:50 symfony [info] {sfController} initialization
+Jul 07 16:08:50 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:08:50 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:08:50 symfony [info] {sfController} dispatch request
+Jul 07 16:08:50 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:08:50 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:08:50 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:08:50 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:08:50 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:08:50 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:08:50 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:08:50 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:08:50 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:08:50 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:08:50 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:08:50 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:10:52 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:10:52 symfony [info] {sfContext} initialization
+Jul 07 16:10:52 symfony [info] {sfController} initialization
+Jul 07 16:10:52 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:10:52 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:10:52 symfony [info] {sfController} dispatch request
+Jul 07 16:10:52 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:10:52 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:10:52 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:10:52 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:10:52 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:10:52 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:10:52 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:10:52 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:10:52 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:10:52 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:10:52 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:10:52 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:12:30 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:12:30 symfony [info] {sfContext} initialization
+Jul 07 16:12:30 symfony [info] {sfController} initialization
+Jul 07 16:12:30 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:12:30 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:12:30 symfony [info] {sfController} dispatch request
+Jul 07 16:12:30 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:12:30 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:12:30 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:12:30 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:12:30 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:12:30 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:12:30 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:12:30 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:12:30 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:30 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:30 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:12:30 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:12:32 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:12:32 symfony [info] {sfContext} initialization
+Jul 07 16:12:32 symfony [info] {sfController} initialization
+Jul 07 16:12:32 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:12:32 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:12:32 symfony [info] {sfController} dispatch request
+Jul 07 16:12:32 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:12:32 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:12:32 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:12:32 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:12:32 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:12:32 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:12:32 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:12:32 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:12:32 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:32 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:32 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:12:32 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:12:38 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:12:38 symfony [info] {sfRouting} connect "/"
+Jul 07 16:12:38 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:12:38 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:12:38 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:12:38 symfony [info] {sfContext} initialization
+Jul 07 16:12:38 symfony [info] {sfController} initialization
+Jul 07 16:12:38 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:12:38 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:12:38 symfony [info] {sfController} dispatch request
+Jul 07 16:12:38 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:12:38 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:12:38 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:12:38 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:12:38 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:12:38 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:12:38 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:12:38 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:12:38 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:38 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:38 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:12:38 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:12:39 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:12:39 symfony [info] {sfContext} initialization
+Jul 07 16:12:39 symfony [info] {sfController} initialization
+Jul 07 16:12:39 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:12:39 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:12:39 symfony [info] {sfController} dispatch request
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:12:39 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:12:39 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:12:39 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:12:39 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:39 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:39 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:12:39 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:12:39 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:12:39 symfony [info] {sfContext} initialization
+Jul 07 16:12:39 symfony [info] {sfController} initialization
+Jul 07 16:12:39 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:12:39 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:12:39 symfony [info] {sfController} dispatch request
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:12:39 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:12:39 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:12:39 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:12:39 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:12:39 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:39 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:39 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:12:39 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:12:40 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:12:40 symfony [info] {sfContext} initialization
+Jul 07 16:12:40 symfony [info] {sfController} initialization
+Jul 07 16:12:40 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:12:40 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:12:40 symfony [info] {sfController} dispatch request
+Jul 07 16:12:40 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:12:40 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:12:40 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:12:40 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:12:40 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:12:40 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:12:40 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:12:40 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:12:40 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:40 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:40 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:12:40 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:12:42 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:12:42 symfony [info] {sfContext} initialization
+Jul 07 16:12:42 symfony [info] {sfController} initialization
+Jul 07 16:12:42 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:12:42 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:12:42 symfony [info] {sfController} dispatch request
+Jul 07 16:12:42 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:12:42 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:12:42 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:12:42 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:12:42 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:12:42 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:12:42 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:12:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:12:42 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:12:42 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:12:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:13:03 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:13:03 symfony [info] {sfContext} initialization
+Jul 07 16:13:03 symfony [info] {sfController} initialization
+Jul 07 16:13:03 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:13:03 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:13:03 symfony [info] {sfController} dispatch request
+Jul 07 16:13:03 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:13:03 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:13:03 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:13:03 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:13:03 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:13:03 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:13:03 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:13:03 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:13:03 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:13:03 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:13:03 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:13:03 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:14:32 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:14:32 symfony [info] {sfContext} initialization
+Jul 07 16:14:32 symfony [info] {sfController} initialization
+Jul 07 16:14:32 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:14:32 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:14:32 symfony [info] {sfController} dispatch request
+Jul 07 16:14:32 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:14:32 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:14:32 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:14:32 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:14:32 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:14:32 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:14:32 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:14:32 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:14:32 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:14:32 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:14:32 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:14:32 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:14:32 symfony [err] {sfConfigurationException} The route "hotels" does not exist.
+Jul 07 16:14:37 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:14:37 symfony [info] {sfContext} initialization
+Jul 07 16:14:37 symfony [info] {sfController} initialization
+Jul 07 16:14:37 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:14:37 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:14:37 symfony [info] {sfController} dispatch request
+Jul 07 16:14:37 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:14:37 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:14:37 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:14:37 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:14:37 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:14:37 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:14:37 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:14:37 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:14:37 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:14:37 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:14:37 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:14:37 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:14:37 symfony [err] {sfConfigurationException} The route "hotels" does not exist.
+Jul 07 16:14:57 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:14:57 symfony [info] {sfContext} initialization
+Jul 07 16:14:57 symfony [info] {sfController} initialization
+Jul 07 16:14:57 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:14:57 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:14:57 symfony [info] {sfController} dispatch request
+Jul 07 16:14:57 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:14:57 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:14:57 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:14:57 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:14:57 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:14:57 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:14:57 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:14:57 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:14:57 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:14:57 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:14:57 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:14:57 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:14:57 symfony [err] {sfConfigurationException} The route "hotels" does not exist.
+Jul 07 16:19:40 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:19:40 symfony [info] {sfContext} initialization
+Jul 07 16:19:40 symfony [info] {sfController} initialization
+Jul 07 16:19:40 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:19:40 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:19:40 symfony [info] {sfController} dispatch request
+Jul 07 16:19:40 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:19:40 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:19:40 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:19:40 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:19:40 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:19:40 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:19:40 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:19:40 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:19:40 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:19:40 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:19:40 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:19:40 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:19:40 symfony [err] {sfConfigurationException} The route "hotels" does not exist.
+Jul 07 16:20:35 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:20:35 symfony [info] {sfContext} initialization
+Jul 07 16:20:35 symfony [info] {sfController} initialization
+Jul 07 16:20:35 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:20:35 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:20:35 symfony [info] {sfController} dispatch request
+Jul 07 16:20:35 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:20:35 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:20:35 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:20:35 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:20:35 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:20:35 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:20:35 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:20:35 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:20:35 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:20:35 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:20:35 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:20:35 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:20:35 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:20:35 symfony [err] {sfRenderException} The template "/_quickLogin.php" does not exist in: 
+Jul 07 16:20:45 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:20:45 symfony [info] {sfContext} initialization
+Jul 07 16:20:45 symfony [info] {sfController} initialization
+Jul 07 16:20:45 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:20:45 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:20:45 symfony [info] {sfController} dispatch request
+Jul 07 16:20:45 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:20:45 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:20:45 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:20:45 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:20:45 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:20:45 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:20:45 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:20:45 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:20:45 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:20:45 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:20:45 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:20:45 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:20:45 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:20:45 symfony [err] {sfRenderException} The template "/_quickSignup.php" does not exist in: 
+Jul 07 16:21:47 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:21:47 symfony [info] {sfContext} initialization
+Jul 07 16:21:47 symfony [info] {sfController} initialization
+Jul 07 16:21:47 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:21:47 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:21:47 symfony [info] {sfController} dispatch request
+Jul 07 16:21:47 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:21:47 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:21:47 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:21:47 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:21:47 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:21:47 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:21:47 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:21:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:21:47 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:21:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:21:47 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:21:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:21:47 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:21:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:21:47 symfony [err] {sfConfigurationException} The route "login" does not exist.
+Jul 07 16:22:43 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:22:43 symfony [info] {sfContext} initialization
+Jul 07 16:22:43 symfony [info] {sfController} initialization
+Jul 07 16:22:43 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:22:43 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:22:43 symfony [info] {sfController} dispatch request
+Jul 07 16:22:43 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:22:43 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:22:43 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:22:43 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:22:43 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:22:43 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:22:43 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:22:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:22:43 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:22:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:22:43 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:22:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:22:43 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:22:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:22:43 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:22:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:22:46 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:22:46 symfony [info] {sfContext} initialization
+Jul 07 16:22:46 symfony [info] {sfController} initialization
+Jul 07 16:22:46 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:22:46 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:22:46 symfony [info] {sfController} dispatch request
+Jul 07 16:22:46 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:22:46 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:22:46 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:22:46 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:22:46 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:22:46 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:22:46 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:22:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:22:46 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:22:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:22:46 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:22:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:22:46 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:22:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:22:46 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:22:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:23:00 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:23:00 symfony [info] {sfContext} initialization
+Jul 07 16:23:00 symfony [info] {sfController} initialization
+Jul 07 16:23:00 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:23:00 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:23:00 symfony [info] {sfController} dispatch request
+Jul 07 16:23:00 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:23:00 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:23:00 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:23:00 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:23:00 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:23:00 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:23:00 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:23:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:23:00 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:23:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:23:00 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:23:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:23:00 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:23:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:23:00 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:23:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:23:49 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:23:49 symfony [info] {sfContext} initialization
+Jul 07 16:23:49 symfony [info] {sfController} initialization
+Jul 07 16:23:49 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:23:49 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:23:49 symfony [info] {sfController} dispatch request
+Jul 07 16:23:49 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:23:49 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:23:49 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:23:49 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:23:49 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:23:49 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:23:49 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:23:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:23:49 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:23:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:23:49 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:23:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:23:49 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:23:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:23:49 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:23:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:23:49 symfony [err] {sfConfigurationException} The route "login" does not exist.
+Jul 07 16:24:43 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:24:43 symfony [info] {sfRouting} connect "/signup"
+Jul 07 16:24:43 symfony [info] {sfRouting} connect "/login"
+Jul 07 16:24:43 symfony [info] {sfRouting} connect "/"
+Jul 07 16:24:43 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:24:43 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:24:43 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:24:43 symfony [info] {sfContext} initialization
+Jul 07 16:24:43 symfony [info] {sfController} initialization
+Jul 07 16:24:43 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:24:43 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:24:43 symfony [info] {sfController} dispatch request
+Jul 07 16:24:43 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:24:43 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:24:43 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:24:43 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:24:43 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:24:43 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:24:43 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:24:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:24:43 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:24:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:24:43 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:24:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:24:43 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:24:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:24:43 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:24:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:24:43 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:24:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:24:43 symfony [info] {sfFilter} render to client
+Jul 07 16:24:43 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:24:43 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:24:43 symfony [info] {sfResponse} send content (28816 o)
+Jul 07 16:24:43 symfony [info] {sfTimerManager} Configuration 19.99 ms (11)
+Jul 07 16:24:43 symfony [info] {sfTimerManager} Action "user/login" 0.09 ms (1)
+Jul 07 16:24:43 symfony [info] {sfTimerManager} View "Success" for "user/login" 8.45 ms (1)
+Jul 07 16:24:43 symfony [info] {sfTimerManager} Partial "global/_header" 2.06 ms (1)
+Jul 07 16:24:43 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.53 ms (1)
+Jul 07 16:24:43 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.58 ms (1)
+Jul 07 16:24:43 symfony [info] {sfTimerManager} Partial "global/_footer" 0.21 ms (1)
+Jul 07 16:25:18 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:25:18 symfony [info] {sfContext} initialization
+Jul 07 16:25:18 symfony [info] {sfController} initialization
+Jul 07 16:25:18 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:25:18 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:25:18 symfony [info] {sfController} dispatch request
+Jul 07 16:25:18 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:25:18 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:25:18 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:25:18 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:25:18 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:25:18 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:25:18 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:25:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:25:18 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:25:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:25:18 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:25:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:25:18 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:25:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:25:18 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:25:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:25:18 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:25:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:25:18 symfony [info] {sfFilter} render to client
+Jul 07 16:25:18 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:25:18 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:25:18 symfony [info] {sfResponse} send content (27171 o)
+Jul 07 16:25:18 symfony [info] {sfTimerManager} Configuration 1.31 ms (10)
+Jul 07 16:25:18 symfony [info] {sfTimerManager} Action "user/login" 0.10 ms (1)
+Jul 07 16:25:18 symfony [info] {sfTimerManager} View "Success" for "user/login" 9.11 ms (1)
+Jul 07 16:25:18 symfony [info] {sfTimerManager} Partial "global/_header" 2.24 ms (1)
+Jul 07 16:25:18 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.54 ms (1)
+Jul 07 16:25:18 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:25:18 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:26:58 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:26:58 symfony [info] {sfContext} initialization
+Jul 07 16:26:58 symfony [info] {sfController} initialization
+Jul 07 16:26:58 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:26:58 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:26:58 symfony [info] {sfController} dispatch request
+Jul 07 16:26:58 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:26:58 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:26:58 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:26:58 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:26:58 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:26:58 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:26:58 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:26:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginSuccess.php"
+Jul 07 16:26:58 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:26:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:26:58 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:26:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:26:58 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:26:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:26:58 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:26:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:26:58 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:26:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:26:58 symfony [info] {sfFilter} render to client
+Jul 07 16:26:58 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:26:58 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:26:58 symfony [info] {sfResponse} send content (27104 o)
+Jul 07 16:26:58 symfony [info] {sfTimerManager} Configuration 1.43 ms (10)
+Jul 07 16:26:58 symfony [info] {sfTimerManager} Action "user/login" 0.10 ms (1)
+Jul 07 16:26:58 symfony [info] {sfTimerManager} View "Success" for "user/login" 8.06 ms (1)
+Jul 07 16:26:58 symfony [info] {sfTimerManager} Partial "global/_header" 2.00 ms (1)
+Jul 07 16:26:58 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.50 ms (1)
+Jul 07 16:26:58 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:26:58 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:29:12 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:29:12 symfony [info] {sfContext} initialization
+Jul 07 16:29:12 symfony [info] {sfController} initialization
+Jul 07 16:29:12 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:29:12 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:29:12 symfony [info] {sfController} dispatch request
+Jul 07 16:29:12 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:29:12 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:29:12 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:29:12 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:29:12 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:29:12 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:29:12 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:29:12 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:29:42 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:29:42 symfony [info] {sfContext} initialization
+Jul 07 16:29:42 symfony [info] {sfController} initialization
+Jul 07 16:29:42 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:29:42 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:29:42 symfony [info] {sfController} dispatch request
+Jul 07 16:29:42 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:29:42 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:29:42 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:29:42 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:29:42 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:29:42 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:29:42 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:29:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:30:32 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:30:32 symfony [info] {sfContext} initialization
+Jul 07 16:30:32 symfony [info] {sfController} initialization
+Jul 07 16:30:32 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:30:32 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:30:32 symfony [info] {sfController} dispatch request
+Jul 07 16:30:32 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:30:32 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:30:32 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:30:32 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:30:32 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:30:32 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:30:32 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:30:32 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:30:32 symfony [info] {sfView} initialize view for "error/_mustLogin"
+Jul 07 16:30:32 symfony [err] {sfRenderException} The template "/_mustLogin.php" does not exist in: 
+Jul 07 16:30:46 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:30:46 symfony [info] {sfContext} initialization
+Jul 07 16:30:46 symfony [info] {sfController} initialization
+Jul 07 16:30:46 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:30:46 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:30:46 symfony [info] {sfController} dispatch request
+Jul 07 16:30:46 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:30:46 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:30:46 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:30:46 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:30:46 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:30:46 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:30:46 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:30:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:30:47 symfony [err] {sfConfigurationException} The route "requestPassword" does not exist.
+Jul 07 16:30:53 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:30:53 symfony [info] {sfContext} initialization
+Jul 07 16:30:53 symfony [info] {sfController} initialization
+Jul 07 16:30:53 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:30:53 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:30:53 symfony [info] {sfController} dispatch request
+Jul 07 16:30:53 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:30:53 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:30:53 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:30:53 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:30:53 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:30:53 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:30:53 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:30:53 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:30:53 symfony [err] {sfConfigurationException} The route "requestPassword" does not exist.
+Jul 07 16:31:28 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:31:28 symfony [info] {sfRouting} connect "/signup"
+Jul 07 16:31:28 symfony [info] {sfRouting} connect "/login"
+Jul 07 16:31:28 symfony [info] {sfRouting} connect "/request-password"
+Jul 07 16:31:28 symfony [info] {sfRouting} connect "/"
+Jul 07 16:31:28 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:31:28 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:31:28 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:31:28 symfony [info] {sfContext} initialization
+Jul 07 16:31:28 symfony [info] {sfController} initialization
+Jul 07 16:31:28 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:31:28 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:31:28 symfony [info] {sfController} dispatch request
+Jul 07 16:31:28 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:31:28 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:31:28 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:31:28 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:31:28 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:31:28 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:31:28 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:31:28 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:31:28 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:31:28 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:31:28 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:31:28 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:31:28 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:31:28 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:31:28 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:31:28 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:31:28 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:31:28 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:31:29 symfony [info] {sfFilter} render to client
+Jul 07 16:31:29 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:31:29 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:31:29 symfony [info] {sfResponse} send content (30850 o)
+Jul 07 16:31:29 symfony [info] {sfTimerManager} Configuration 21.29 ms (11)
+Jul 07 16:31:29 symfony [info] {sfTimerManager} Action "user/login" 0.09 ms (1)
+Jul 07 16:31:29 symfony [info] {sfTimerManager} View "Input" for "user/login" 9.68 ms (1)
+Jul 07 16:31:29 symfony [info] {sfTimerManager} Partial "global/_header" 2.19 ms (1)
+Jul 07 16:31:29 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.53 ms (1)
+Jul 07 16:31:29 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.59 ms (1)
+Jul 07 16:31:29 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:32:07 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:32:07 symfony [info] {sfContext} initialization
+Jul 07 16:32:07 symfony [info] {sfController} initialization
+Jul 07 16:32:07 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:32:07 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:32:07 symfony [info] {sfController} dispatch request
+Jul 07 16:32:07 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:32:07 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:32:07 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:32:07 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:32:07 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:32:07 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:32:07 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:32:07 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:32:07 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:32:07 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:32:07 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:32:07 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:32:07 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:32:07 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:32:07 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:32:07 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:32:07 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:32:07 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:32:07 symfony [info] {sfFilter} render to client
+Jul 07 16:32:07 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:32:07 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:32:07 symfony [info] {sfResponse} send content (28675 o)
+Jul 07 16:32:07 symfony [info] {sfTimerManager} Configuration 1.73 ms (10)
+Jul 07 16:32:07 symfony [info] {sfTimerManager} Action "user/login" 0.10 ms (1)
+Jul 07 16:32:07 symfony [info] {sfTimerManager} View "Input" for "user/login" 9.02 ms (1)
+Jul 07 16:32:07 symfony [info] {sfTimerManager} Partial "global/_header" 1.98 ms (1)
+Jul 07 16:32:07 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.49 ms (1)
+Jul 07 16:32:07 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.58 ms (1)
+Jul 07 16:32:07 symfony [info] {sfTimerManager} Partial "global/_footer" 0.21 ms (1)
+Jul 07 16:33:04 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:33:04 symfony [info] {sfContext} initialization
+Jul 07 16:33:04 symfony [info] {sfController} initialization
+Jul 07 16:33:04 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:33:04 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:33:04 symfony [info] {sfController} dispatch request
+Jul 07 16:33:04 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:33:04 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:33:04 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:33:04 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:33:04 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:33:04 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:33:04 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:33:04 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:33:04 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:33:04 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:33:04 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:33:04 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:33:04 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:33:04 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:33:04 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:33:04 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:33:04 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:33:04 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:33:04 symfony [info] {sfFilter} render to client
+Jul 07 16:33:04 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:33:04 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:33:04 symfony [info] {sfResponse} send content (28687 o)
+Jul 07 16:33:04 symfony [info] {sfTimerManager} Configuration 1.35 ms (10)
+Jul 07 16:33:04 symfony [info] {sfTimerManager} Action "user/login" 0.10 ms (1)
+Jul 07 16:33:04 symfony [info] {sfTimerManager} View "Input" for "user/login" 9.32 ms (1)
+Jul 07 16:33:04 symfony [info] {sfTimerManager} Partial "global/_header" 2.04 ms (1)
+Jul 07 16:33:04 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.50 ms (1)
+Jul 07 16:33:04 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.63 ms (1)
+Jul 07 16:33:04 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:33:10 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:33:10 symfony [info] {sfContext} initialization
+Jul 07 16:33:10 symfony [info] {sfController} initialization
+Jul 07 16:33:10 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:33:10 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:33:10 symfony [info] {sfController} dispatch request
+Jul 07 16:33:10 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:33:10 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:33:10 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:33:10 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:33:10 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:33:10 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:33:10 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:33:10 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:33:10 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:33:10 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:33:10 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:33:10 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:33:10 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:33:10 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:33:10 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:33:10 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:33:10 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:33:10 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:33:10 symfony [info] {sfFilter} render to client
+Jul 07 16:33:10 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:33:10 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:33:10 symfony [info] {sfResponse} send content (28692 o)
+Jul 07 16:33:10 symfony [info] {sfTimerManager} Configuration 1.37 ms (10)
+Jul 07 16:33:10 symfony [info] {sfTimerManager} Action "user/login" 0.10 ms (1)
+Jul 07 16:33:10 symfony [info] {sfTimerManager} View "Input" for "user/login" 9.05 ms (1)
+Jul 07 16:33:10 symfony [info] {sfTimerManager} Partial "global/_header" 2.24 ms (1)
+Jul 07 16:33:10 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.56 ms (1)
+Jul 07 16:33:10 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:33:10 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:35:36 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:35:36 symfony [info] {sfRouting} connect "/signup"
+Jul 07 16:35:36 symfony [info] {sfRouting} connect "/login"
+Jul 07 16:35:36 symfony [info] {sfRouting} connect "/request-password"
+Jul 07 16:35:36 symfony [info] {sfRouting} connect "/report"
+Jul 07 16:35:36 symfony [info] {sfRouting} connect "/"
+Jul 07 16:35:36 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:35:36 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:35:36 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:35:37 symfony [info] {sfContext} initialization
+Jul 07 16:35:37 symfony [info] {sfController} initialization
+Jul 07 16:35:37 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:35:37 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:35:37 symfony [info] {sfController} dispatch request
+Jul 07 16:35:37 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:35:37 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:35:37 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:35:37 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:35:37 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:35:37 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:35:37 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:35:37 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:35:37 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:35:37 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:35:37 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:35:37 symfony [info] {sfFilter} render to client
+Jul 07 16:35:37 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:35:37 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:35:37 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:35:37 symfony [info] {sfResponse} send content (25398 o)
+Jul 07 16:35:37 symfony [info] {sfTimerManager} Configuration 28.93 ms (11)
+Jul 07 16:35:37 symfony [info] {sfTimerManager} Action "default/error404" 0.10 ms (1)
+Jul 07 16:35:37 symfony [info] {sfTimerManager} View "Success" for "default/error404" 10.62 ms (1)
+Jul 07 16:35:46 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:35:46 symfony [info] {sfRouting} connect "/signup"
+Jul 07 16:35:46 symfony [info] {sfRouting} connect "/login"
+Jul 07 16:35:46 symfony [info] {sfRouting} connect "/request-password"
+Jul 07 16:35:46 symfony [info] {sfRouting} connect "/report"
+Jul 07 16:35:46 symfony [info] {sfRouting} connect "/"
+Jul 07 16:35:46 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:35:46 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:35:46 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:35:46 symfony [info] {sfContext} initialization
+Jul 07 16:35:46 symfony [info] {sfController} initialization
+Jul 07 16:35:46 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:35:46 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:35:46 symfony [info] {sfController} dispatch request
+Jul 07 16:35:46 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:35:46 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:35:46 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:35:46 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:35:46 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:35:46 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:35:46 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:35:46 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:35:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:35:46 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:35:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:35:46 symfony [info] {sfFilter} render to client
+Jul 07 16:35:46 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:35:46 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:35:46 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:35:46 symfony [info] {sfResponse} send content (25398 o)
+Jul 07 16:35:46 symfony [info] {sfTimerManager} Configuration 23.05 ms (9)
+Jul 07 16:35:46 symfony [info] {sfTimerManager} Action "default/error404" 0.10 ms (1)
+Jul 07 16:35:46 symfony [info] {sfTimerManager} View "Success" for "default/error404" 11.49 ms (1)
+Jul 07 16:35:53 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:35:53 symfony [info] {sfContext} initialization
+Jul 07 16:35:53 symfony [info] {sfController} initialization
+Jul 07 16:35:53 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:35:53 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:35:53 symfony [info] {sfController} dispatch request
+Jul 07 16:35:53 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:35:53 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:35:53 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:35:53 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:35:53 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:35:53 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:35:53 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:35:53 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:35:53 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:35:53 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:35:53 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:35:53 symfony [info] {sfFilter} render to client
+Jul 07 16:35:53 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:35:53 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:35:53 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:35:53 symfony [info] {sfResponse} send content (23211 o)
+Jul 07 16:35:53 symfony [info] {sfTimerManager} Configuration 1.45 ms (10)
+Jul 07 16:35:53 symfony [info] {sfTimerManager} Action "default/error404" 0.18 ms (1)
+Jul 07 16:35:53 symfony [info] {sfTimerManager} View "Success" for "default/error404" 18.59 ms (1)
+Jul 07 16:36:38 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:36:38 symfony [info] {sfContext} initialization
+Jul 07 16:36:38 symfony [info] {sfController} initialization
+Jul 07 16:36:38 symfony [info] {sfRouting} match route [login] "/login"
+Jul 07 16:36:38 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:36:38 symfony [info] {sfController} dispatch request
+Jul 07 16:36:38 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:36:38 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:36:38 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:36:38 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:36:38 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:36:38 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:36:38 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:36:38 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:36:38 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:36:38 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:38 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:38 symfony [info] {sfFilter} render to client
+Jul 07 16:36:38 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:36:38 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:36:38 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:36:38 symfony [info] {sfResponse} send content (23213 o)
+Jul 07 16:36:38 symfony [info] {sfTimerManager} Configuration 1.42 ms (10)
+Jul 07 16:36:38 symfony [info] {sfTimerManager} Action "default/error404" 0.14 ms (1)
+Jul 07 16:36:38 symfony [info] {sfTimerManager} View "Success" for "default/error404" 6.31 ms (1)
+Jul 07 16:36:43 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:36:43 symfony [info] {sfContext} initialization
+Jul 07 16:36:43 symfony [info] {sfController} initialization
+Jul 07 16:36:43 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:36:43 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:36:43 symfony [info] {sfController} dispatch request
+Jul 07 16:36:43 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:36:43 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:36:43 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:36:43 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:36:43 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:36:43 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:36:43 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:36:43 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:36:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:36:43 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:43 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:43 symfony [info] {sfFilter} render to client
+Jul 07 16:36:43 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:36:43 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:36:43 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:36:43 symfony [info] {sfResponse} send content (23147 o)
+Jul 07 16:36:43 symfony [info] {sfTimerManager} Configuration 2.24 ms (10)
+Jul 07 16:36:43 symfony [info] {sfTimerManager} Action "default/error404" 0.19 ms (1)
+Jul 07 16:36:43 symfony [info] {sfTimerManager} View "Success" for "default/error404" 17.54 ms (1)
+Jul 07 16:36:45 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:36:45 symfony [info] {sfContext} initialization
+Jul 07 16:36:45 symfony [info] {sfController} initialization
+Jul 07 16:36:45 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:36:45 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:36:45 symfony [info] {sfController} dispatch request
+Jul 07 16:36:45 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:36:45 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:36:45 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:36:45 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:36:45 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:36:45 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:36:45 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:36:45 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:36:45 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:36:45 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:45 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:45 symfony [info] {sfFilter} render to client
+Jul 07 16:36:45 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:36:45 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:36:45 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:36:45 symfony [info] {sfResponse} send content (23147 o)
+Jul 07 16:36:45 symfony [info] {sfTimerManager} Configuration 1.25 ms (10)
+Jul 07 16:36:45 symfony [info] {sfTimerManager} Action "default/error404" 0.10 ms (1)
+Jul 07 16:36:45 symfony [info] {sfTimerManager} View "Success" for "default/error404" 15.90 ms (1)
+Jul 07 16:36:46 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:36:46 symfony [info] {sfContext} initialization
+Jul 07 16:36:46 symfony [info] {sfController} initialization
+Jul 07 16:36:46 symfony [info] {sfRouting} match route [login] "/login"
+Jul 07 16:36:46 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:36:46 symfony [info] {sfController} dispatch request
+Jul 07 16:36:46 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:36:46 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:36:46 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:36:46 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:36:46 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:36:46 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:36:46 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:36:46 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:36:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:36:46 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:46 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:46 symfony [info] {sfFilter} render to client
+Jul 07 16:36:46 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:36:46 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:36:46 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:36:46 symfony [info] {sfResponse} send content (23214 o)
+Jul 07 16:36:46 symfony [info] {sfTimerManager} Configuration 1.82 ms (10)
+Jul 07 16:36:46 symfony [info] {sfTimerManager} Action "default/error404" 0.19 ms (1)
+Jul 07 16:36:46 symfony [info] {sfTimerManager} View "Success" for "default/error404" 18.05 ms (1)
+Jul 07 16:36:47 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:36:47 symfony [info] {sfContext} initialization
+Jul 07 16:36:47 symfony [info] {sfController} initialization
+Jul 07 16:36:47 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:36:47 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:36:47 symfony [info] {sfController} dispatch request
+Jul 07 16:36:47 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:36:47 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:36:47 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:36:47 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:36:47 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:36:47 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:36:47 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:36:47 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:36:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:36:47 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:36:47 symfony [info] {sfFilter} render to client
+Jul 07 16:36:47 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:36:47 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:36:47 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:36:47 symfony [info] {sfResponse} send content (23147 o)
+Jul 07 16:36:47 symfony [info] {sfTimerManager} Configuration 1.47 ms (10)
+Jul 07 16:36:47 symfony [info] {sfTimerManager} Action "default/error404" 0.10 ms (1)
+Jul 07 16:36:47 symfony [info] {sfTimerManager} View "Success" for "default/error404" 15.73 ms (1)
+Jul 07 16:37:01 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:37:01 symfony [info] {sfRouting} connect "/signup"
+Jul 07 16:37:01 symfony [info] {sfRouting} connect "/login"
+Jul 07 16:37:01 symfony [info] {sfRouting} connect "/request-password"
+Jul 07 16:37:01 symfony [info] {sfRouting} connect "/report"
+Jul 07 16:37:01 symfony [info] {sfRouting} connect "/"
+Jul 07 16:37:01 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:37:01 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:37:01 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:37:01 symfony [info] {sfContext} initialization
+Jul 07 16:37:01 symfony [info] {sfController} initialization
+Jul 07 16:37:01 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:37:01 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:37:01 symfony [info] {sfController} dispatch request
+Jul 07 16:37:01 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:37:01 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:37:01 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:37:01 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:37:01 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:37:01 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:37:01 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:37:01 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:37:01 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:37:01 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:01 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:01 symfony [info] {sfFilter} render to client
+Jul 07 16:37:01 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:37:01 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:37:01 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:37:01 symfony [info] {sfResponse} send content (25397 o)
+Jul 07 16:37:01 symfony [info] {sfTimerManager} Configuration 20.40 ms (9)
+Jul 07 16:37:01 symfony [info] {sfTimerManager} Action "default/error404" 0.11 ms (1)
+Jul 07 16:37:01 symfony [info] {sfTimerManager} View "Success" for "default/error404" 8.89 ms (1)
+Jul 07 16:37:02 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:37:02 symfony [info] {sfContext} initialization
+Jul 07 16:37:02 symfony [info] {sfController} initialization
+Jul 07 16:37:02 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:37:02 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:37:02 symfony [info] {sfController} dispatch request
+Jul 07 16:37:02 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:37:02 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:37:02 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:37:02 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:37:02 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:37:02 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:37:02 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:37:02 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:37:02 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:37:02 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:02 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:02 symfony [info] {sfFilter} render to client
+Jul 07 16:37:02 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:37:02 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:37:02 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:37:02 symfony [info] {sfResponse} send content (23211 o)
+Jul 07 16:37:02 symfony [info] {sfTimerManager} Configuration 1.63 ms (10)
+Jul 07 16:37:02 symfony [info] {sfTimerManager} Action "default/error404" 0.18 ms (1)
+Jul 07 16:37:02 symfony [info] {sfTimerManager} View "Success" for "default/error404" 16.75 ms (1)
+Jul 07 16:37:47 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:37:47 symfony [info] {sfRouting} connect "/signup"
+Jul 07 16:37:47 symfony [info] {sfRouting} connect "/login"
+Jul 07 16:37:47 symfony [info] {sfRouting} connect "/request-password"
+Jul 07 16:37:47 symfony [info] {sfRouting} connect "/"
+Jul 07 16:37:47 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:37:47 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:37:47 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:37:47 symfony [info] {sfContext} initialization
+Jul 07 16:37:47 symfony [info] {sfController} initialization
+Jul 07 16:37:47 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:37:47 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:37:47 symfony [info] {sfController} dispatch request
+Jul 07 16:37:47 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:37:47 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:37:47 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:37:47 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:37:47 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:37:47 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:37:47 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:37:47 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:37:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:37:47 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:47 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:47 symfony [info] {sfFilter} render to client
+Jul 07 16:37:47 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:37:47 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:37:47 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:37:47 symfony [info] {sfResponse} send content (25127 o)
+Jul 07 16:37:47 symfony [info] {sfTimerManager} Configuration 19.98 ms (11)
+Jul 07 16:37:47 symfony [info] {sfTimerManager} Action "default/error404" 0.12 ms (1)
+Jul 07 16:37:47 symfony [info] {sfTimerManager} View "Success" for "default/error404" 6.56 ms (1)
+Jul 07 16:37:48 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:37:48 symfony [info] {sfContext} initialization
+Jul 07 16:37:48 symfony [info] {sfController} initialization
+Jul 07 16:37:48 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:37:48 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:37:48 symfony [info] {sfController} dispatch request
+Jul 07 16:37:48 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:37:48 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:37:48 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:37:48 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:37:48 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:48 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:48 symfony [info] {sfFilter} render to client
+Jul 07 16:37:48 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:37:48 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:37:48 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:37:48 symfony [info] {sfResponse} send content (23211 o)
+Jul 07 16:37:48 symfony [info] {sfTimerManager} Configuration 1.66 ms (10)
+Jul 07 16:37:48 symfony [info] {sfTimerManager} Action "default/error404" 0.19 ms (1)
+Jul 07 16:37:48 symfony [info] {sfTimerManager} View "Success" for "default/error404" 16.13 ms (1)
+Jul 07 16:37:48 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:37:48 symfony [info] {sfContext} initialization
+Jul 07 16:37:48 symfony [info] {sfController} initialization
+Jul 07 16:37:48 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:37:48 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:37:48 symfony [info] {sfController} dispatch request
+Jul 07 16:37:48 symfony [info] {sfController} action "user/login" does not exist
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:37:48 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:37:48 symfony [info] {sfAction} call "defaultActions->executeError404()"
+Jul 07 16:37:48 symfony [info] {sfView} initialize view for "default/error404"
+Jul 07 16:37:48 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/error404Success.php"
+Jul 07 16:37:48 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:48 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/config/../lib/vendor/symfony/data/modules/default/templates/defaultLayout.php"
+Jul 07 16:37:48 symfony [info] {sfFilter} render to client
+Jul 07 16:37:48 symfony [info] {sfResponse} send status "HTTP/1.0 404 Not Found"
+Jul 07 16:37:48 symfony [info] {sfResponse} send header "Status": "404 Not Found"
+Jul 07 16:37:48 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:37:48 symfony [info] {sfResponse} send content (23211 o)
+Jul 07 16:37:48 symfony [info] {sfTimerManager} Configuration 1.59 ms (10)
+Jul 07 16:37:48 symfony [info] {sfTimerManager} Action "default/error404" 0.13 ms (1)
+Jul 07 16:37:48 symfony [info] {sfTimerManager} View "Success" for "default/error404" 17.39 ms (1)
+Jul 07 16:38:21 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:38:21 symfony [info] {sfRouting} connect "/signup"
+Jul 07 16:38:21 symfony [info] {sfRouting} connect "/login"
+Jul 07 16:38:21 symfony [info] {sfRouting} connect "/request-password"
+Jul 07 16:38:21 symfony [info] {sfRouting} connect "/report"
+Jul 07 16:38:21 symfony [info] {sfRouting} connect "/"
+Jul 07 16:38:21 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Jul 07 16:38:21 symfony [info] {sfRouting} connect "/:module"
+Jul 07 16:38:21 symfony [info] {sfRouting} connect "/:module/:action/*"
+Jul 07 16:38:21 symfony [info] {sfContext} initialization
+Jul 07 16:38:21 symfony [info] {sfController} initialization
+Jul 07 16:38:21 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:38:21 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:38:21 symfony [info] {sfController} dispatch request
+Jul 07 16:38:21 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:38:21 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:38:21 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:38:21 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:38:21 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:38:21 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:38:21 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:38:21 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:38:21 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:38:21 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:38:21 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:38:21 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:38:21 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:38:21 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:38:21 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:38:21 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:38:21 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:38:21 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:38:21 symfony [info] {sfFilter} render to client
+Jul 07 16:38:21 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:38:21 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:38:21 symfony [info] {sfResponse} send content (30886 o)
+Jul 07 16:38:21 symfony [info] {sfTimerManager} Configuration 31.75 ms (11)
+Jul 07 16:38:21 symfony [info] {sfTimerManager} Action "user/login" 0.13 ms (1)
+Jul 07 16:38:21 symfony [info] {sfTimerManager} View "Input" for "user/login" 17.64 ms (1)
+Jul 07 16:38:21 symfony [info] {sfTimerManager} Partial "global/_header" 4.58 ms (1)
+Jul 07 16:38:21 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.93 ms (1)
+Jul 07 16:38:21 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 1.18 ms (1)
+Jul 07 16:38:21 symfony [info] {sfTimerManager} Partial "global/_footer" 0.31 ms (1)
+Jul 07 16:38:23 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:38:23 symfony [info] {sfContext} initialization
+Jul 07 16:38:23 symfony [info] {sfController} initialization
+Jul 07 16:38:23 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:38:23 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:38:23 symfony [info] {sfController} dispatch request
+Jul 07 16:38:23 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:38:23 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:38:23 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:38:23 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:38:23 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:38:23 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:38:23 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:38:23 symfony [err] {sfRenderException} The template "/reportInput.php" does not exist in: 
+Jul 07 16:38:41 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:38:41 symfony [info] {sfContext} initialization
+Jul 07 16:38:41 symfony [info] {sfController} initialization
+Jul 07 16:38:41 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:38:41 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:38:41 symfony [info] {sfController} dispatch request
+Jul 07 16:38:41 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:38:41 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:38:41 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:38:41 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:38:41 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:38:41 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:38:41 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:38:41 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:38:41 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:38:41 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:38:41 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:38:41 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:38:41 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:38:41 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:38:41 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:38:41 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:38:41 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:38:41 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:38:41 symfony [info] {sfFilter} render to client
+Jul 07 16:38:41 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:38:41 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:38:41 symfony [info] {sfResponse} send content (28918 o)
+Jul 07 16:38:41 symfony [info] {sfTimerManager} Configuration 2.05 ms (10)
+Jul 07 16:38:41 symfony [info] {sfTimerManager} Action "user/report" 0.11 ms (1)
+Jul 07 16:38:41 symfony [info] {sfTimerManager} View "Input" for "user/report" 11.18 ms (1)
+Jul 07 16:38:41 symfony [info] {sfTimerManager} Partial "global/_header" 2.26 ms (1)
+Jul 07 16:38:41 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.53 ms (1)
+Jul 07 16:38:41 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.59 ms (1)
+Jul 07 16:38:41 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:38:58 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:38:58 symfony [info] {sfContext} initialization
+Jul 07 16:38:58 symfony [info] {sfController} initialization
+Jul 07 16:38:58 symfony [info] {sfRouting} match route [homepage] "/"
+Jul 07 16:38:58 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',)
+Jul 07 16:38:58 symfony [info] {sfController} dispatch request
+Jul 07 16:38:58 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:38:58 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:38:58 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:38:58 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:38:58 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:38:58 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:38:58 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:38:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:38:58 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:38:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:38:58 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:38:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:38:58 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:38:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:38:58 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:38:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:38:58 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:38:58 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:38:58 symfony [info] {sfFilter} render to client
+Jul 07 16:38:58 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:38:58 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:38:58 symfony [info] {sfResponse} send content (28775 o)
+Jul 07 16:38:58 symfony [info] {sfTimerManager} Configuration 1.27 ms (10)
+Jul 07 16:38:58 symfony [info] {sfTimerManager} Action "user/login" 0.09 ms (1)
+Jul 07 16:38:58 symfony [info] {sfTimerManager} View "Input" for "user/login" 8.95 ms (1)
+Jul 07 16:38:58 symfony [info] {sfTimerManager} Partial "global/_header" 1.97 ms (1)
+Jul 07 16:38:58 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.50 ms (1)
+Jul 07 16:38:58 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:38:58 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:38:59 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:38:59 symfony [info] {sfContext} initialization
+Jul 07 16:38:59 symfony [info] {sfController} initialization
+Jul 07 16:38:59 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:38:59 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:38:59 symfony [info] {sfController} dispatch request
+Jul 07 16:38:59 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:38:59 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:38:59 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:38:59 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:38:59 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:38:59 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:38:59 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:38:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:38:59 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:38:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:38:59 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:38:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:38:59 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:38:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:38:59 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:38:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:38:59 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:38:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:38:59 symfony [info] {sfFilter} render to client
+Jul 07 16:38:59 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:38:59 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:38:59 symfony [info] {sfResponse} send content (28854 o)
+Jul 07 16:38:59 symfony [info] {sfTimerManager} Configuration 1.22 ms (10)
+Jul 07 16:38:59 symfony [info] {sfTimerManager} Action "user/report" 0.09 ms (1)
+Jul 07 16:38:59 symfony [info] {sfTimerManager} View "Input" for "user/report" 13.93 ms (1)
+Jul 07 16:38:59 symfony [info] {sfTimerManager} Partial "global/_header" 2.54 ms (1)
+Jul 07 16:38:59 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.66 ms (1)
+Jul 07 16:38:59 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.69 ms (1)
+Jul 07 16:38:59 symfony [info] {sfTimerManager} Partial "global/_footer" 0.21 ms (1)
+Jul 07 16:39:14 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:39:14 symfony [info] {sfContext} initialization
+Jul 07 16:39:14 symfony [info] {sfController} initialization
+Jul 07 16:39:14 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:39:14 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:39:14 symfony [info] {sfController} dispatch request
+Jul 07 16:39:14 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:39:14 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:39:14 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:39:14 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:39:14 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:39:14 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:39:14 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:39:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:39:14 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:39:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:39:14 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:39:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:39:14 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:39:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:39:14 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:39:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:39:14 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:39:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:39:14 symfony [info] {sfFilter} render to client
+Jul 07 16:39:14 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:39:14 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:39:14 symfony [info] {sfResponse} send content (28924 o)
+Jul 07 16:39:14 symfony [info] {sfTimerManager} Configuration 1.21 ms (10)
+Jul 07 16:39:14 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:39:14 symfony [info] {sfTimerManager} View "Input" for "user/report" 8.85 ms (1)
+Jul 07 16:39:14 symfony [info] {sfTimerManager} Partial "global/_header" 2.04 ms (1)
+Jul 07 16:39:14 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.51 ms (1)
+Jul 07 16:39:14 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.60 ms (1)
+Jul 07 16:39:14 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:39:29 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:39:29 symfony [info] {sfContext} initialization
+Jul 07 16:39:29 symfony [info] {sfController} initialization
+Jul 07 16:39:29 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:39:29 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:39:29 symfony [info] {sfController} dispatch request
+Jul 07 16:39:29 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:39:29 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:39:29 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:39:29 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:39:29 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:39:29 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:39:29 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:39:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:39:29 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:39:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:39:29 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:39:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:39:29 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:39:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:39:29 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:39:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:39:29 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:39:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:39:29 symfony [info] {sfFilter} render to client
+Jul 07 16:39:29 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:39:29 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:39:29 symfony [info] {sfResponse} send content (28882 o)
+Jul 07 16:39:29 symfony [info] {sfTimerManager} Configuration 1.25 ms (10)
+Jul 07 16:39:29 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:39:29 symfony [info] {sfTimerManager} View "Input" for "user/report" 8.71 ms (1)
+Jul 07 16:39:29 symfony [info] {sfTimerManager} Partial "global/_header" 1.99 ms (1)
+Jul 07 16:39:29 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.50 ms (1)
+Jul 07 16:39:29 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.59 ms (1)
+Jul 07 16:39:29 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:40:15 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:40:15 symfony [info] {sfContext} initialization
+Jul 07 16:40:15 symfony [info] {sfController} initialization
+Jul 07 16:40:15 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:40:15 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:40:15 symfony [info] {sfController} dispatch request
+Jul 07 16:40:15 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:40:15 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:40:15 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:40:15 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:40:15 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:40:15 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:40:15 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:40:15 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:40:15 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:15 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:15 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:40:15 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:40:15 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:40:15 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:40:15 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:40:15 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:40:15 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:40:15 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:40:15 symfony [info] {sfFilter} render to client
+Jul 07 16:40:15 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:40:15 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:40:15 symfony [info] {sfResponse} send content (28883 o)
+Jul 07 16:40:15 symfony [info] {sfTimerManager} Configuration 1.37 ms (10)
+Jul 07 16:40:15 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:40:15 symfony [info] {sfTimerManager} View "Input" for "user/report" 8.86 ms (1)
+Jul 07 16:40:15 symfony [info] {sfTimerManager} Partial "global/_header" 1.98 ms (1)
+Jul 07 16:40:15 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.50 ms (1)
+Jul 07 16:40:15 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:40:15 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:40:42 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:40:42 symfony [info] {sfContext} initialization
+Jul 07 16:40:42 symfony [info] {sfController} initialization
+Jul 07 16:40:42 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:40:42 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:40:42 symfony [info] {sfController} dispatch request
+Jul 07 16:40:42 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:40:42 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:40:42 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:40:42 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:40:42 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:40:42 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:40:42 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:40:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:40:42 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:42 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:40:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:40:42 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:40:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:40:42 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:40:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:40:42 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:40:42 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:40:42 symfony [info] {sfFilter} render to client
+Jul 07 16:40:42 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:40:42 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:40:42 symfony [info] {sfResponse} send content (28430 o)
+Jul 07 16:40:42 symfony [info] {sfTimerManager} Configuration 1.35 ms (10)
+Jul 07 16:40:42 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:40:42 symfony [info] {sfTimerManager} View "Input" for "user/report" 8.91 ms (1)
+Jul 07 16:40:42 symfony [info] {sfTimerManager} Partial "global/_header" 1.98 ms (1)
+Jul 07 16:40:42 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.50 ms (1)
+Jul 07 16:40:42 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:40:42 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:40:53 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:40:53 symfony [info] {sfContext} initialization
+Jul 07 16:40:53 symfony [info] {sfController} initialization
+Jul 07 16:40:53 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:40:53 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:40:53 symfony [info] {sfController} dispatch request
+Jul 07 16:40:53 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:40:53 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:40:53 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:40:53 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:40:53 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:40:53 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:40:53 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:40:53 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:40:53 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:53 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:53 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:40:53 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:40:53 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:40:53 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:40:53 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:40:53 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:40:53 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:40:53 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:40:53 symfony [info] {sfFilter} render to client
+Jul 07 16:40:53 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:40:53 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:40:53 symfony [info] {sfResponse} send content (28238 o)
+Jul 07 16:40:53 symfony [info] {sfTimerManager} Configuration 1.41 ms (10)
+Jul 07 16:40:53 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:40:53 symfony [info] {sfTimerManager} View "Input" for "user/report" 8.90 ms (1)
+Jul 07 16:40:53 symfony [info] {sfTimerManager} Partial "global/_header" 1.98 ms (1)
+Jul 07 16:40:53 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.49 ms (1)
+Jul 07 16:40:53 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:40:53 symfony [info] {sfTimerManager} Partial "global/_footer" 0.21 ms (1)
+Jul 07 16:40:56 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:40:56 symfony [info] {sfContext} initialization
+Jul 07 16:40:56 symfony [info] {sfController} initialization
+Jul 07 16:40:56 symfony [info] {sfRouting} match route [login] "/login"
+Jul 07 16:40:56 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'login',  'inputTitle' => '',)
+Jul 07 16:40:56 symfony [info] {sfController} dispatch request
+Jul 07 16:40:56 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:40:56 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:40:56 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:40:56 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:40:56 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:40:56 symfony [info] {sfAction} call "userActions->executeLogin()"
+Jul 07 16:40:56 symfony [info] {sfView} initialize view for "user/login"
+Jul 07 16:40:56 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/loginInput.php"
+Jul 07 16:40:56 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:56 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:56 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:40:56 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:40:56 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:40:56 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:40:56 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:40:56 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:40:56 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:40:56 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:40:56 symfony [info] {sfFilter} render to client
+Jul 07 16:40:56 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:40:56 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:40:56 symfony [info] {sfResponse} send content (29219 o)
+Jul 07 16:40:56 symfony [info] {sfTimerManager} Configuration 1.42 ms (10)
+Jul 07 16:40:56 symfony [info] {sfTimerManager} Action "user/login" 0.11 ms (1)
+Jul 07 16:40:56 symfony [info] {sfTimerManager} View "Input" for "user/login" 8.96 ms (1)
+Jul 07 16:40:56 symfony [info] {sfTimerManager} Partial "global/_header" 2.05 ms (1)
+Jul 07 16:40:56 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.53 ms (1)
+Jul 07 16:40:56 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.60 ms (1)
+Jul 07 16:40:56 symfony [info] {sfTimerManager} Partial "global/_footer" 0.22 ms (1)
+Jul 07 16:40:59 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:40:59 symfony [info] {sfContext} initialization
+Jul 07 16:40:59 symfony [info] {sfController} initialization
+Jul 07 16:40:59 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:40:59 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:40:59 symfony [info] {sfController} dispatch request
+Jul 07 16:40:59 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:40:59 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:40:59 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:40:59 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:40:59 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:40:59 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:40:59 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:40:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:40:59 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:40:59 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:40:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:40:59 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:40:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:40:59 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:40:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:40:59 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:40:59 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:40:59 symfony [info] {sfFilter} render to client
+Jul 07 16:40:59 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:40:59 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:40:59 symfony [info] {sfResponse} send content (28175 o)
+Jul 07 16:40:59 symfony [info] {sfTimerManager} Configuration 1.23 ms (10)
+Jul 07 16:40:59 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:40:59 symfony [info] {sfTimerManager} View "Input" for "user/report" 8.94 ms (1)
+Jul 07 16:40:59 symfony [info] {sfTimerManager} Partial "global/_header" 2.02 ms (1)
+Jul 07 16:40:59 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.50 ms (1)
+Jul 07 16:40:59 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:40:59 symfony [info] {sfTimerManager} Partial "global/_footer" 0.21 ms (1)
+Jul 07 16:41:18 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:41:18 symfony [info] {sfContext} initialization
+Jul 07 16:41:18 symfony [info] {sfController} initialization
+Jul 07 16:41:18 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:41:18 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:41:18 symfony [info] {sfController} dispatch request
+Jul 07 16:41:18 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:41:18 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:41:18 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:41:18 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:41:18 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:41:18 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:41:18 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:41:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:41:18 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:41:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:41:18 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:41:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:41:18 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:41:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:41:18 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:41:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:41:18 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:41:18 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:41:18 symfony [info] {sfFilter} render to client
+Jul 07 16:41:18 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:41:18 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:41:18 symfony [info] {sfResponse} send content (28240 o)
+Jul 07 16:41:18 symfony [info] {sfTimerManager} Configuration 1.57 ms (10)
+Jul 07 16:41:18 symfony [info] {sfTimerManager} Action "user/report" 0.12 ms (1)
+Jul 07 16:41:18 symfony [info] {sfTimerManager} View "Input" for "user/report" 8.57 ms (1)
+Jul 07 16:41:18 symfony [info] {sfTimerManager} Partial "global/_header" 2.00 ms (1)
+Jul 07 16:41:18 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.50 ms (1)
+Jul 07 16:41:18 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:41:18 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:41:19 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:41:19 symfony [info] {sfContext} initialization
+Jul 07 16:41:19 symfony [info] {sfController} initialization
+Jul 07 16:41:19 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:41:19 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',  'inputTitle' => '',)
+Jul 07 16:41:19 symfony [info] {sfController} dispatch request
+Jul 07 16:41:19 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:41:19 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:41:19 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:41:19 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:41:19 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:41:19 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:41:19 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:41:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:41:19 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:41:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:41:19 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:41:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:41:19 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:41:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:41:19 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:41:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:41:19 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:41:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:41:19 symfony [info] {sfFilter} render to client
+Jul 07 16:41:19 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:41:19 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:41:19 symfony [info] {sfResponse} send content (28564 o)
+Jul 07 16:41:19 symfony [info] {sfTimerManager} Configuration 2.00 ms (10)
+Jul 07 16:41:19 symfony [info] {sfTimerManager} Action "user/report" 0.13 ms (1)
+Jul 07 16:41:19 symfony [info] {sfTimerManager} View "Input" for "user/report" 9.05 ms (1)
+Jul 07 16:41:19 symfony [info] {sfTimerManager} Partial "global/_header" 2.13 ms (1)
+Jul 07 16:41:19 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.53 ms (1)
+Jul 07 16:41:19 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:41:19 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:42:19 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:42:19 symfony [info] {sfContext} initialization
+Jul 07 16:42:19 symfony [info] {sfController} initialization
+Jul 07 16:42:19 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:42:19 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:42:19 symfony [info] {sfController} dispatch request
+Jul 07 16:42:19 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:42:19 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:42:19 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:42:19 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:42:19 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:42:19 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:42:19 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:42:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:42:19 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:42:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:42:19 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:42:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:42:19 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:42:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:42:19 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:42:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:42:19 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:42:19 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:42:19 symfony [info] {sfFilter} render to client
+Jul 07 16:42:19 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:42:19 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:42:19 symfony [info] {sfResponse} send content (28714 o)
+Jul 07 16:42:19 symfony [info] {sfTimerManager} Configuration 1.87 ms (10)
+Jul 07 16:42:19 symfony [info] {sfTimerManager} Action "user/report" 0.12 ms (1)
+Jul 07 16:42:19 symfony [info] {sfTimerManager} View "Input" for "user/report" 20.23 ms (1)
+Jul 07 16:42:19 symfony [info] {sfTimerManager} Partial "global/_header" 3.11 ms (1)
+Jul 07 16:42:19 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.73 ms (1)
+Jul 07 16:42:19 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.78 ms (1)
+Jul 07 16:42:19 symfony [info] {sfTimerManager} Partial "global/_footer" 0.26 ms (1)
+Jul 07 16:42:30 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:42:30 symfony [info] {sfContext} initialization
+Jul 07 16:42:30 symfony [info] {sfController} initialization
+Jul 07 16:42:30 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:42:30 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:42:30 symfony [info] {sfController} dispatch request
+Jul 07 16:42:30 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:42:30 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:42:30 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:42:30 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:42:30 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:42:30 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:42:30 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:42:30 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:42:30 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:42:30 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:42:30 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:42:30 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:42:30 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:42:30 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:42:30 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:42:30 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:42:30 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:42:30 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:42:30 symfony [info] {sfFilter} render to client
+Jul 07 16:42:30 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:42:30 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:42:30 symfony [info] {sfResponse} send content (28714 o)
+Jul 07 16:42:30 symfony [info] {sfTimerManager} Configuration 1.21 ms (10)
+Jul 07 16:42:30 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:42:30 symfony [info] {sfTimerManager} View "Input" for "user/report" 20.01 ms (1)
+Jul 07 16:42:30 symfony [info] {sfTimerManager} Partial "global/_header" 4.31 ms (1)
+Jul 07 16:42:30 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 1.15 ms (1)
+Jul 07 16:42:30 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 1.16 ms (1)
+Jul 07 16:42:30 symfony [info] {sfTimerManager} Partial "global/_footer" 0.38 ms (1)
+Jul 07 16:43:00 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:43:00 symfony [info] {sfContext} initialization
+Jul 07 16:43:00 symfony [info] {sfController} initialization
+Jul 07 16:43:00 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:43:00 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:43:00 symfony [info] {sfController} dispatch request
+Jul 07 16:43:00 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:43:00 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:43:00 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:43:00 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:43:00 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:43:00 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:43:00 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:43:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:43:00 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:43:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:43:00 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:43:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:43:00 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:43:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:43:00 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:43:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:43:00 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:43:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:43:00 symfony [info] {sfFilter} render to client
+Jul 07 16:43:00 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:43:00 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:43:00 symfony [info] {sfResponse} send content (28538 o)
+Jul 07 16:43:00 symfony [info] {sfTimerManager} Configuration 1.30 ms (10)
+Jul 07 16:43:00 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:43:00 symfony [info] {sfTimerManager} View "Input" for "user/report" 8.90 ms (1)
+Jul 07 16:43:00 symfony [info] {sfTimerManager} Partial "global/_header" 1.98 ms (1)
+Jul 07 16:43:00 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.50 ms (1)
+Jul 07 16:43:00 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.58 ms (1)
+Jul 07 16:43:00 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:43:14 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:43:14 symfony [info] {sfContext} initialization
+Jul 07 16:43:14 symfony [info] {sfController} initialization
+Jul 07 16:43:14 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:43:14 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:43:14 symfony [info] {sfController} dispatch request
+Jul 07 16:43:14 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:43:14 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:43:14 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:43:14 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:43:14 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:43:14 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:43:14 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:43:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:43:14 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:43:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:43:14 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:43:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:43:14 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:43:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:43:14 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:43:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:43:14 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:43:14 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:43:14 symfony [info] {sfFilter} render to client
+Jul 07 16:43:14 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:43:14 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:43:14 symfony [info] {sfResponse} send content (28542 o)
+Jul 07 16:43:14 symfony [info] {sfTimerManager} Configuration 1.34 ms (10)
+Jul 07 16:43:14 symfony [info] {sfTimerManager} Action "user/report" 0.13 ms (1)
+Jul 07 16:43:14 symfony [info] {sfTimerManager} View "Input" for "user/report" 12.02 ms (1)
+Jul 07 16:43:14 symfony [info] {sfTimerManager} Partial "global/_header" 3.89 ms (1)
+Jul 07 16:43:14 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.97 ms (1)
+Jul 07 16:43:14 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 1.14 ms (1)
+Jul 07 16:43:14 symfony [info] {sfTimerManager} Partial "global/_footer" 0.51 ms (1)
+Jul 07 16:43:29 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:43:29 symfony [info] {sfContext} initialization
+Jul 07 16:43:29 symfony [info] {sfController} initialization
+Jul 07 16:43:29 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:43:29 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:43:29 symfony [info] {sfController} dispatch request
+Jul 07 16:43:29 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:43:29 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:43:29 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:43:29 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:43:29 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:43:29 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:43:29 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:43:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:43:29 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:43:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:43:29 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:43:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:43:29 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:43:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:43:29 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:43:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:43:29 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:43:29 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:43:29 symfony [info] {sfFilter} render to client
+Jul 07 16:43:29 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:43:29 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:43:29 symfony [info] {sfResponse} send content (28542 o)
+Jul 07 16:43:29 symfony [info] {sfTimerManager} Configuration 1.23 ms (10)
+Jul 07 16:43:29 symfony [info] {sfTimerManager} Action "user/report" 0.09 ms (1)
+Jul 07 16:43:29 symfony [info] {sfTimerManager} View "Input" for "user/report" 9.18 ms (1)
+Jul 07 16:43:29 symfony [info] {sfTimerManager} Partial "global/_header" 2.02 ms (1)
+Jul 07 16:43:29 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.51 ms (1)
+Jul 07 16:43:29 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:43:29 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:46:49 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:46:49 symfony [info] {sfContext} initialization
+Jul 07 16:46:49 symfony [info] {sfController} initialization
+Jul 07 16:46:49 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:46:49 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:46:49 symfony [info] {sfController} dispatch request
+Jul 07 16:46:49 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:46:49 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:46:49 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:46:49 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:46:49 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:46:49 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:46:49 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:46:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:46:49 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:46:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:46:49 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:46:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:46:49 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:46:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:46:49 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:46:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:46:49 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:46:49 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:46:49 symfony [info] {sfFilter} render to client
+Jul 07 16:46:49 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:46:49 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:46:49 symfony [info] {sfResponse} send content (29029 o)
+Jul 07 16:46:49 symfony [info] {sfTimerManager} Configuration 1.67 ms (10)
+Jul 07 16:46:49 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:46:49 symfony [info] {sfTimerManager} View "Input" for "user/report" 8.97 ms (1)
+Jul 07 16:46:49 symfony [info] {sfTimerManager} Partial "global/_header" 1.98 ms (1)
+Jul 07 16:46:49 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.49 ms (1)
+Jul 07 16:46:49 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.57 ms (1)
+Jul 07 16:46:49 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
+Jul 07 16:47:00 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "/Library/Application Support/appsolute/MAMP PRO/conf/php5.3.28.ini").
+Jul 07 16:47:00 symfony [info] {sfContext} initialization
+Jul 07 16:47:00 symfony [info] {sfController} initialization
+Jul 07 16:47:00 symfony [info] {sfRouting} match route [report] "/report"
+Jul 07 16:47:00 symfony [info] {sfRequest} request parameters array (  'module' => 'user',  'action' => 'report',)
+Jul 07 16:47:00 symfony [info] {sfController} dispatch request
+Jul 07 16:47:00 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Jul 07 16:47:00 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Jul 07 16:47:00 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Jul 07 16:47:00 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Jul 07 16:47:00 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Jul 07 16:47:00 symfony [info] {sfAction} call "userActions->executeReport()"
+Jul 07 16:47:00 symfony [info] {sfView} initialize view for "user/report"
+Jul 07 16:47:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/reportInput.php"
+Jul 07 16:47:00 symfony [info] {sfView} decorate content with "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:47:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/layout.php"
+Jul 07 16:47:00 symfony [info] {sfView} initialize view for "global/_header"
+Jul 07 16:47:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_header.php"
+Jul 07 16:47:00 symfony [info] {sfView} initialize view for "user/_quickLogin"
+Jul 07 16:47:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickLogin.php"
+Jul 07 16:47:00 symfony [info] {sfView} initialize view for "user/_quickSignup"
+Jul 07 16:47:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/modules/user/templates/_quickSignup.php"
+Jul 07 16:47:00 symfony [info] {sfView} initialize view for "global/_footer"
+Jul 07 16:47:00 symfony [info] {sfView} render "/Applications/MAMP/htdocs/bluesquare/apps/frontend/templates/_footer.php"
+Jul 07 16:47:00 symfony [info] {sfFilter} render to client
+Jul 07 16:47:00 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Jul 07 16:47:00 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Jul 07 16:47:00 symfony [info] {sfResponse} send content (29021 o)
+Jul 07 16:47:00 symfony [info] {sfTimerManager} Configuration 1.65 ms (10)
+Jul 07 16:47:00 symfony [info] {sfTimerManager} Action "user/report" 0.10 ms (1)
+Jul 07 16:47:00 symfony [info] {sfTimerManager} View "Input" for "user/report" 9.29 ms (1)
+Jul 07 16:47:00 symfony [info] {sfTimerManager} Partial "global/_header" 2.26 ms (1)
+Jul 07 16:47:00 symfony [info] {sfTimerManager} Partial "user/_quickLogin" 0.58 ms (1)
+Jul 07 16:47:00 symfony [info] {sfTimerManager} Partial "user/_quickSignup" 0.61 ms (1)
+Jul 07 16:47:00 symfony [info] {sfTimerManager} Partial "global/_footer" 0.20 ms (1)
